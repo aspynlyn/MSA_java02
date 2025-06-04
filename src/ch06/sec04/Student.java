@@ -4,6 +4,7 @@ public class Student {
   String name;
 
   void introduce(){
+    int num = 0;
     System.out.printf("안녕 내 이름은 %s라고 해\n", this.name);
   }
 }
