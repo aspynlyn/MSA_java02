@@ -10,9 +10,9 @@ public class Mission03Method {
 
     // 5였다면 *****(개행)
     // 3이었다면 ***(개행)
-    printSingleLine(star);
-    System.out.println("==========");
-    printMultiLine(star);
+//    printSingleLine(star);
+//    System.out.println("==========");
+//    printMultiLine(star);
     System.out.println("==========");
     printTriangleLine(star);
   }
