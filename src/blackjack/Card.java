@@ -17,6 +17,7 @@ public class Card {
 		return denomination;
 	}
 
+
 	@Override // 애노테이션
 	public String toString(){
 		return String.format("%s%s", this.pattern, this.denomination);
